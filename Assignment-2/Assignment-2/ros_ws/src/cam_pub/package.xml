@@ -1,0 +1,11 @@
+<package format="3">
+  <name>cam_pub</name>
+  <version>0.0.1</version>
+  <description>Webcam/video publisher</description>
+  <maintainer email="you@example.com">You</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>cv_bridge</exec_depend>
+</package>
