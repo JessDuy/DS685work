@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+outputs/
+data/droid/
+*.mp4
+*.jsonl
+*.DS_Store
